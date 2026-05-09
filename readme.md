@@ -110,27 +110,27 @@ This platform simplifies job exploration by combining search functionality with 
 
 
 
-\### 🏠 Home Page
+🏠 Home Page
 
-!\[Home](screenshots/home.png)
-
-
-
-\### 🏠 Home Page (View 2)
-
-!\[Home2](screenshots/home1.png)
+![Home Page](screenshots/home.png)
 
 
 
-\### 🔍 Search Results
+🏠 Home Page (View 2)
 
-!\[Search](screenshots/search.png)
+![Home Page (View 2)](screenshots/home1.png)
 
 
 
-\### 📊 Data Visualization
+🔍 Search Results
 
-!\[Charts](screenshots/chart.png)
+![Search Result](screenshots/search.png)
+
+
+
+📊 Data Visualization
+
+![Data Visualization](screenshots/chart.png)
 
 
 
